@@ -1,3 +1,6 @@
+venv/
 __pycache__/
-scratchcode
-#
+.env
+*.pyc
+bank.db
+config.py
